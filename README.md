@@ -71,8 +71,8 @@ The RBF of hidden neuron as gaussian function
 
 
 
-Developed by ezhil mathi r 
-Registration no:212221230026
+Developed by:-  virgil jovita.a
+Registration no:-   212221240062
 ```
 import numpy as np
 import matplotlib.pyplot as plt
